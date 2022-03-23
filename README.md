@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annnnnnnnn
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning OSCP
+- 🌱 I’m currently learning OSWE
 - 💞️ I’m looking to collaborate on NGFW, IDS and Scanner
 - 📫 How to reach me: 
 
